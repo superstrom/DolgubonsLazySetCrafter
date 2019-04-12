@@ -23,6 +23,8 @@ Libs\LibLazyCrafting\Smithing.lua
 ; LibCustomTitles
 Libs\LibCustomTitle\LibCustomTitles.lua
 
+Libs\LibCustomMenu\LibCustomMenu.lua
+
 ; LibAddonMenu
 libs\LibAddonMenu-2.0\LibAddonMenu-2.0.lua
 libs\LibAddonMenu-2.0\controls\panel.lua
@@ -59,8 +61,6 @@ SetCrafterUI.lua
 ; This file handles all the LLC crafting interaction
 Crafter.lua
 
-; This file handles mailing set requests
-Mail.lua
 ; Main file. Final setups, also the addon initialization function
 SetCrafter.lua
 
